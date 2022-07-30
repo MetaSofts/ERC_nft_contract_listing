@@ -1,3 +1,17 @@
+# This project is based on NFt metadata Read and read the nft owner.
+
+Ether Js is use in this project 
+
+Avalcnche smart contract is used in this project
+
+Use the smart contract function of Tokenuri to fetch the nft Uri
+
+OwnerOf function is use to fetch the owner of nft
+
+Use the Batch Call in this project to solve the Pinaat Issue of rate limit
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
